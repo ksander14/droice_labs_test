@@ -10,4 +10,5 @@ do visual exploration of features and their correlations; include a handful of i
 determine one or several target features that you can predict within the dataset (e.g. smoking status, patient age, mortality outcome etc.) and try fitting a model that predicts your targets; document your model selection and hyper parameter tuning routines and briefly explain choices you made. Alternatively, you can choose to apply certain clustering techniques and try to interpret the clusters that you’ve learnt."
 
 sample_data.txt - dataset
+
 Safiulin_test.ipynb - file with solution for the task.
